@@ -6,7 +6,7 @@
   justify-content: center;
 }
 .projects-container > * {
-  flex-grow: 1;
+  flex-grow: 0;
   flex-shrink: 1;
   flex-basis: 0;
 }
@@ -28,7 +28,7 @@
   /* margin-bottom: 0.25rem; */
 }
 .project-desc {
-  margin-top: 0.75rem;
+  /* margin-top: 0.75rem; */
   min-width: 20ch;
   min-height: 10ch;
   margin-bottom: 0.5rem;
@@ -80,10 +80,7 @@
     padding: 20px;
     margin: 10px;
   }
-  .projects-title {
-    text-align: center;
-    /* margin-bottom: 0.25rem; */
-  }
+
   .project-desc {
     margin-top: 0.75rem;
     min-width: 25ch;

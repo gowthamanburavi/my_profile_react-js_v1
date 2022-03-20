@@ -24,7 +24,7 @@ export const Projects = () => {
                         <h2 class="project-title">gtmar.one</h2>
                         <p class="project-desc">A ToDo app built with Redux for state managemnt with Framer motion</p>
                         {/* <!-- <button class="btn btn-demo-live">Live demo</button> --> */}
-                        <button class="btn btn-git-repo">GitHub repo</button>
+                        <button class="btn btn-git-repo" style={{ borderRadius: "10px 10px 10px 10px", }}>GitHub repo</button>
                     </div>
                     <div class="project-card">
                         <img src={todo} alt="" class="project-image" />
@@ -35,7 +35,7 @@ export const Projects = () => {
                         <button class="btn btn-git-repo">GitHub repo</button>
                     </div>
                 </div>
-            </scetion>
-        </div>
+            </scetion >
+        </div >
     )
 }
