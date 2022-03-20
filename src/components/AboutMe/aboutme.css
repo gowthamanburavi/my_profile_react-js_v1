@@ -1,0 +1,11 @@
+/* About me */
+.about-me {
+  text-align: justify;
+  width: min(75%, 70ch);
+  height: auto;
+  background-color: #ffffff;
+  border-radius: 11px;
+  box-shadow: 0 3px 10px var(--primary-shadow);
+  padding: 20px;
+  margin: 0 auto 2rem;
+}

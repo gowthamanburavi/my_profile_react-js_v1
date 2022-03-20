@@ -1,0 +1,58 @@
+/* Contact me */
+.contact-form-container {
+  max-width: 30rem;
+  margin: 0 auto;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  border-radius: 11px;
+  box-shadow: 0 3px 10px var(--secondary-shadow);
+}
+.contact-form-container label {
+  line-height: 2.7em;
+  font-weight: var(--bold-font);
+  color: #000000;
+}
+
+.contact-form-container textarea {
+  min-height: 6.25rem;
+  font-size: 14px;
+}
+
+.contact-form-container .input-field {
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+  border: none;
+  border: 2px outset #000000;
+  font-size: 0.875rem;
+  outline: none;
+}
+
+.input-field::placeholder {
+  padding: 0.5rem;
+  color: #000000;
+}
+.submit-btn {
+  width: 35%;
+  text-align: center;
+  padding: 10px;
+  margin: 10px 0;
+  background-color: #fff;
+  border: 2px solid #000000;
+  border-radius: 10px;
+  font-size: 1rem;
+  font-weight: var(--bold-font);
+}
+
+.submit-btn:hover {
+  transform: scale(1.02);
+  border: 2px solid var(--primary-color);
+  color: var(--primary-color);
+  cursor: pointer;
+}
+@media screen and (max-width: 420px) {
+  .contact-form-container {
+    max-width: 17.75rem;
+  }
+}

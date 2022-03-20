@@ -1,0 +1,16 @@
+/* Skills */
+.skills-icons {
+  position: relative;
+  text-align: center;
+}
+.icon {
+  width: 8rem;
+  height: 8rem;
+}
+.icon-card {
+  background-color: #ffffff;
+  border-radius: 11px;
+  box-shadow: 0 3px 10px var(--secondary-shadow);
+  padding: 20px;
+  margin: 10px;
+}
