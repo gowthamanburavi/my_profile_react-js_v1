@@ -13,25 +13,19 @@ export const Timeline = () => {
                             <li>
                                 <div class="timeline-content">
                                     <h1>2018 - Present</h1>
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad aperiam expedita
-                                        voluptates? Hic
-                                        sed incidunt veritatis dolores quam aliquam consequuntur.</p>
+                                    <p>Own business, procurement and sales of silk. Weft processing for strength and durability</p>
                                 </div>
                             </li>
                             <li>
                                 <div class="timeline-content">
                                     <h1>2015 - 2017</h1>
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad aperiam expedita
-                                        voluptates? Hic
-                                        sed incidunt veritatis dolores quam aliquam consequuntur.</p>
+                                    <p>System engineer at Tata Consultancy Services. Developing and maintaining web pages with Teamsite</p>
                                 </div>
                             </li>
                             <li>
                                 <div class="timeline-content">
                                     <h1>2010 - 2014</h1>
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad aperiam expedita
-                                        voluptates? Hic
-                                        sed incidunt veritatis dolores quam aliquam consequuntur.</p>
+                                    <p>Engineering graduation fom SNS College of Technology, Coimbatore</p>
                                 </div>
                             </li>
                         </ul>
